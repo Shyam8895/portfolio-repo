@@ -9,7 +9,7 @@ body {
 header {
     text-align: center;
     padding: 2rem;
-    background-color: #4CAF50;
+    background-color: #640ac4;
     color: white;
 }
 
@@ -70,7 +70,7 @@ section {
 }
 
 .skill {
-    background-color: #4CAF50;
+    background-color: #2004a9;
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -83,10 +83,9 @@ footer {
     background-color: #333;
     color: white;
 }
-
 #contact-btn {
     padding: 0.5rem 1rem;
-    background-color: #4CAF50;
+    background-color: #25b9c9;
     color: white;
     border: none;
     border-radius: 5px;
@@ -94,5 +93,5 @@ footer {
 }
 
 #contact-btn:hover {
-    background-color: #45a049;
+    background-color: #0e90aa;
 }
