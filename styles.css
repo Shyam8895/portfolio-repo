@@ -58,6 +58,8 @@ nav a {
 
 main {
     padding: 2rem;
+     background-image: url('asset/bgm.jpg');
+     background-size: cover;
 }
 
 section {
