@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shyam
-[Visit My Portfolio](https://shyam8895.github.io/portfolio/)
+[Visit My Portfolio](https://shyam8895.github.io/portfolio-repo/)
 
 ## About Me
 - 👀 Interests: Developing games, 3D modeling, and creative design.
