@@ -59,7 +59,7 @@ nav a {
 main {
     padding: 5rem;
      background-image: url('asset/bgm.jpg');
-     background-size: cover;
+     background-size: 100% auto;
 }
 
 section {
