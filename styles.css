@@ -6,10 +6,14 @@ body {
     color: #333;
 }
 
+#profile {
+    filter: drop-shadow(0 0 5px rgb(255, 0, 0))drop-shadow(10px 10px rgb(255, 170, 0)) drop-shadow(-5px -5px yellow);
+}
+
 header {
     text-align: center;
     padding: 2rem;
-    background-color: #640ac4;
+    background-color: #ff9500;
     color: white;
 }
 
