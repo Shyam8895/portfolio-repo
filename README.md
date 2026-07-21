@@ -4,7 +4,7 @@
 ## About Me
 - 👀 Interests: Developing games, 3D modeling, and creative design.
 - 🌱 Currently Learning: Blender, Unreal Engine, and the basics of coding.
-- 📫 Contact Me: Reach out via [LinkedIn](https://www.linkedin.com/in/shyam-prasad-5132b4251) or [Email](mailto:shyamprasad8895@gmail.com).
+- 📫 Contact Me: Reach out via [LinkedIn](https://www.linkedin.com/in/shyama-prasad-kanhar-5132b4251?) or [Email](mailto:shyamprasad8895@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I’m a beginner in coding but passionate about learning!
 
